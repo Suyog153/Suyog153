@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, Here is what is up to me!
 
-<!--
-**Suyog153/Suyog153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Development of Dilated CNN model
+- 🌱 I’m currently learning Data Analytics and Machine Learning
+- 👯 I’m looking to collaborate on Python Programming, Machine Learning and AI
+- 🤔 I’m looking for help with Job.
+- 💬 Ask me about anything!
+- 📫 How to reach me: suyognmv@gmail.com
+- 😄 Pronouns: Nothing as such!
+- ⚡ Fun fact: Always Learning!
+
