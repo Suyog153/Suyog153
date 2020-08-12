@@ -10,8 +10,8 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Suyog153 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Suyog153 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-[Linkedin]: https://www.linkedin.com/in/suyog15/
+[linkedin]: https://www.linkedin.com/in/suyog15
