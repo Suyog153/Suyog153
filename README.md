@@ -14,4 +14,4 @@
 
 <br />
 
-[Linkedin]: https://linkedin.com/in/suyog15
+[Linkedin]: https://www.linkedin.com/in/suyog15/
