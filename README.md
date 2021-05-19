@@ -1,10 +1,10 @@
 ## Hello, Here is what is up to me!
 
-- 🔭 I’m currently working on Development of Bayesian Neural Networks, Zero Shot Learning and improvement of Deep CNN model for Image classification.
+- 🔭 I’m currently working on Development of Bayesian Neural Networks, Zero Shot Learning and Image Classification using Deep CNN.
 - 🎓 I'm currrently working on Generalized Zero Shot Learning.
-- 🌱 I’m currently learning Machine Learning basics and Data Analytics with Python.
-- 👯 I’m looking to collaborate on Python Programming, Deep Learning, Machine Learning and AI.
-- 🤔 I’m looking for full time Job.
+- 🌱 Learning Machine Learning basics and Data Analytics with Python.
+- 👯 I’m looking to collaborate on Python Programming, Deep Learning models(Tensorflow and SKLearn), Machine Learning algorithms and AI.
+- 🧐 I’m looking for full time Job in Machine Learning and Deep Learning domain.
 - 💬 Ask me about anything!
 - 📫 How to reach me: suyognmv@gmail.com
 - ⚡ Fun fact: Only constant thing is 'change'!
