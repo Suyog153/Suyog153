@@ -1,6 +1,6 @@
 ## Hello, Here is what is up to me!
 
-- 🔭 I’m currently working on Development of Bayesian Neural Networks, Zero Shot Learning and Image Classification using Deep CNN.
+- 🔭 I’m currently working on Zero Shot Learning and Image Classification using Deep CNN.
 - 🎓 I'm currrently working on Generalized Zero Shot Learning.
 - 🌱 Learning Machine Learning basics and Data Analytics with Python.
 - 👯 I’m looking to collaborate on Python Programming, Deep Learning models(Tensorflow and SKLearn), Machine Learning algorithms and AI.
