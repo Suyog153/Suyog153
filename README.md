@@ -1,9 +1,9 @@
 ## Hello, Here is what is up to me!
 
-- 🔭 I’m currently working on Zero Shot Learning and Image Classification using Deep CNN.
-- 🎓 I'm currrently working on Generalized Zero Shot Learning.
-- 🌱 Learning Machine Learning basics and Data Analytics with Python.
-- 👯 I’m looking to collaborate on Python Programming, Deep Learning models(Tensorflow and SKLearn), Machine Learning algorithms and AI.
+- 🔭 I’m a Computational Engineer with passion for Data Science.
+- 🎓 I'm currrently working on Cloud deployment of Machine Learning models and various Cloud Services.
+- 🌱 Learning Machine Learning and Data Analytics with Python.
+- 👯 I’m looking to collaborate on Python Programming, Deep Learning models, Machine Learning algorithms and AI.
 - 🧐 I’m looking for full time Job in Machine Learning and Deep Learning domain.
 - 💬 Ask me about anything!
 - 📫 How to reach me: suyognmv@gmail.com
